@@ -1,6 +1,6 @@
 # 📦 Failed Order Analysis – Gett Platform (Mini Project)
 
-This mini-project is based on a **case study** shared in the [Xóm Data - Cùng học Data Analyst / Data Engineer / Data ScientistVietnam Data Community Facebook Group](https://www.facebook.com/groups/1707916343455196). The objective is to explore and analyze **failed ride-hailing orders** from Gett (formerly known as GetTaxi), a B2B ground transportation management platform.
+This mini-project is based on a **case study** shared in the [Xóm Data - Cùng học Data Analyst / Data Engineer / Data Scientist](https://www.facebook.com/groups/1707916343455196). The objective is to explore and analyze **failed ride-hailing orders** from Gett (formerly known as GetTaxi), a B2B ground transportation management platform.
 
 ---
 
